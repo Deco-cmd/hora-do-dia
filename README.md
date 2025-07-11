@@ -29,7 +29,11 @@ ex014/
 
 💡 Tecnologias
 HTML5
-
 CSS3
-
 JavaScript
+
+
+✍️ Autor
+André G. Silva
+📍 Americana-SP
+
